@@ -1,2 +1,3 @@
 <a>=anchor element(link to another website)
 html attribute = modivies how an element behaves
+extra space in html are ignored
