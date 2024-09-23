@@ -2,3 +2,4 @@
 html attribute = modivies how an element behaves
 extra space in html are ignored
 space(around an element)= margin
+void element= don't need closing tag include (area, base, br, col, command, embed, hr, img, keygen, link, meta, pram, source, track and wbt)
